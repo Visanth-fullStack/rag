@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+websockets
+faster-whisper
+numpy
+torch
+groq
+python-dotenv
+docling
+python-multipart
