@@ -1,0 +1,32 @@
+# Python-generated files and directories
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+wheels/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+custom_envs/
+
+# Visual Studio / C# build files
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Database & local workspace outputs
+**/chroma_db/
+**/outputs/
+.env
+*.env
+*.local
