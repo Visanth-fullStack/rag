@@ -30,3 +30,5 @@ custom_envs/
 .env
 *.env
 *.local
+graphify-out/
+.graphify_labels.json
